@@ -23,12 +23,12 @@
 				"method": "GET",
 				"header": [],
 				"url": {
-					"raw": "http://localhost:3000/comments",
+					"raw": "http://localhost:3002/comments",
 					"protocol": "http",
 					"host": [
 						"localhost"
 					],
-					"port": "3000",
+					"port": "3002",
 					"path": [
 						"comments"
 					]
@@ -53,12 +53,12 @@
 				"method": "GET",
 				"header": [],
 				"url": {
-					"raw": "http://localhost:3000/comments/1",
+					"raw": "http://localhost:3002/comments/1",
 					"protocol": "http",
 					"host": [
 						"localhost"
 					],
-					"port": "3000",
+					"port": "3002",
 					"path": [
 						"comments",
 						"1"
@@ -84,12 +84,12 @@
 				"method": "GET",
 				"header": [],
 				"url": {
-					"raw": "http://localhost:3000/comments?body=some comment",
+					"raw": "http://localhost:3002/comments?body=some comment",
 					"protocol": "http",
 					"host": [
 						"localhost"
 					],
-					"port": "3000",
+					"port": "3002",
 					"path": [
 						"comments"
 					],
@@ -129,12 +129,12 @@
 					}
 				},
 				"url": {
-					"raw": "http://localhost:3000/comments",
+					"raw": "http://localhost:3002/comments",
 					"protocol": "http",
 					"host": [
 						"localhost"
 					],
-					"port": "3000",
+					"port": "3002",
 					"path": [
 						"comments"
 					]
@@ -168,12 +168,12 @@
 					}
 				},
 				"url": {
-					"raw": "http://localhost:3000/comments/2",
+					"raw": "http://localhost:3002/comments/2",
 					"protocol": "http",
 					"host": [
 						"localhost"
 					],
-					"port": "3000",
+					"port": "3002",
 					"path": [
 						"comments",
 						"2"
@@ -208,12 +208,12 @@
 					}
 				},
 				"url": {
-					"raw": "http://localhost:3000/comments/1",
+					"raw": "http://localhost:3002/comments/1",
 					"protocol": "http",
 					"host": [
 						"localhost"
 					],
-					"port": "3000",
+					"port": "3002",
 					"path": [
 						"comments",
 						"1"
